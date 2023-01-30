@@ -1,0 +1,27 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duytan591/nodejs_app2.git"
+  },
+  "keywords": [
+    "nodejs",
+    "app2"
+  ],
+  "author": "duytan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duytan591/nodejs_app2/issues"
+  },
+  "homepage": "https://github.com/duytan591/nodejs_app2#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
